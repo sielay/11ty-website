@@ -1,0 +1,4 @@
+{
+	"npm": "eleventy-plugin-blog",
+	"description": "Zero config blog features for 11ty"
+}
